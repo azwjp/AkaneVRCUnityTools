@@ -7,7 +7,9 @@
 /[Bb]in/
 
 # Assets
-*.psd
+/Assets/*
+!/Assets/AZW/
+!/Assets/AZW.meta
 
 # Mode;
 /Assets/Models
